@@ -1,0 +1,37 @@
+# Operating System Files
+.DS_Store          # macOS system files
+Thumbs.db          # Windows system files
+
+# IDE/Editor Files
+.idea/             # JetBrains IDEs (like PhpStorm)
+.vscode/           # Visual Studio Code settings
+*.swp              # Vim swap files
+
+# Logs
+*.log              # Log files
+*.sql              # SQL dump files (if not needed in version control)
+
+# Dependency Management
+/vendor/           # Vendor directory for Composer (if using)
+node_modules/      # Node.js dependencies (if using any JS packages)
+
+# Build Artifacts
+/public/assets/     # If you compile assets (CSS, JS, etc.)
+*.zip              # Archive files
+
+# Uploads
+/uploads/          # Uploaded files and media
+/uploads/images/   # Uploaded images
+/uploads/videos/   # Uploaded videos
+
+# Local Configuration Files
+/config/database.php  # Database configuration files with sensitive information
+/config/config.php     # General config files with sensitive information
+
+# Temp Files
+*.tmp              # Temporary files
+*.bak              # Backup files
+
+# PHPStorm
+*.iml              # IntelliJ IDEA project files
+
