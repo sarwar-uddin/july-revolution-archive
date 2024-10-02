@@ -4,7 +4,7 @@ include('partials/header.php');
 ?>
 
 <div class="container my-5">
-    <main class="text-center">
+    <main>
         <section>
             <h2 class="mb-4">About Freedom's Archive: July Revolution Gallery</h2>
             <p class="lead mb-4">
